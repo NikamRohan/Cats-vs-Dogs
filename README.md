@@ -38,8 +38,12 @@ Using Pytorch with Django To distinguish Cats from Dogs by Fine Tuning pretraine
 
 ## Screenshots Of Website
 
+**Home Page To upload Images**
+
 ![Screenshot (179)](https://user-images.githubusercontent.com/63553348/81738600-93ee1080-94b7-11ea-8a0d-c38faf558db9.png)
 
+
+**Page For Displaying Prediction of Model**
 
 ![Screenshot (180)](https://user-images.githubusercontent.com/63553348/81738685-b41dcf80-94b7-11ea-9065-148f440367ae.png)
 
