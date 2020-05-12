@@ -34,3 +34,14 @@ Using Pytorch with Django To distinguish Cats from Dogs by Fine Tuning pretraine
 7. **Then Goto your favourite Browser and Type in localhost:8000.**
 
 8. **Now you should be able to navigate through the website and explore its features.**
+
+
+## Screenshots Of Website
+
+![Screenshot (179)](https://user-images.githubusercontent.com/63553348/81738600-93ee1080-94b7-11ea-8a0d-c38faf558db9.png)
+
+
+![Screenshot (180)](https://user-images.githubusercontent.com/63553348/81738685-b41dcf80-94b7-11ea-9065-148f440367ae.png)
+
+
+![Screenshot (181)](https://user-images.githubusercontent.com/63553348/81738703-bf70fb00-94b7-11ea-8d01-ce4837876c54.png)
